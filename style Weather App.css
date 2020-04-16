@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+html,body {
+    margin: 0;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: flex;
+}
+
+.root-app {
+    display: block;
+    margin-bottom: 55px;
+}
+
+body {
+    background-color: cadetblue;
+}
